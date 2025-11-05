@@ -1,7 +1,8 @@
 # 👋 Hi there! I'm Jezer Ávila  
 
-🎓 **Control and Automation Engineer** with a strong passion for **technology and programming**.  
-Although my background is in engineering, I’ve always been interested in understanding how applications work from the inside, which led me to learn programming in a **self-taught** way.
+🎓 **QA Tester in development with a background in Control and Automation Engineering and experience in technical support.
+I’m currently making a career transition driven by my passion for programming and automation, combining both to ensure software quality.
+I completed a QA Tester course at TripleTen, where I learned test automation with Python, Selenium, and API testing, and I’m currently practicing and refining these skills through personal projects while seeking opportunities in the QA field.**.  
 
 ---
 
