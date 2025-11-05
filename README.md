@@ -1,5 +1,8 @@
 # 👋 Hi there! I'm Jezer Ávila  
 
+
+![Beige   Black Geometric Technology LinkedIn Banner](https://github.com/user-attachments/assets/f8b503a0-fe4e-43b4-b424-4573f23c042c)
+
 🎓 **QA Tester in development with a background in Control and Automation Engineering and experience in technical support.
 I’m currently making a career transition driven by my passion for programming and automation, combining both to ensure software quality.
 I completed a QA Tester course at TripleTen, where I learned test automation with Python, Selenium, and API testing, and I’m currently practicing and refining these skills through personal projects while seeking opportunities in the QA field.**.  
