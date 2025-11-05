@@ -1,45 +1,45 @@
-# 👋 ¡Hola! Soy Jezer Ávila  
+# 👋 Hi there! I'm Jezer Ávila  
 
-🎓 **Ingeniero en Control y Automatización** con una gran pasión por la **tecnología y la programación**.  
-Aunque mi formación original está en el área de ingeniería, siempre me ha interesado entender cómo funcionan las aplicaciones desde adentro, lo que me llevó a aprender programación de manera **autodidacta**.
-
----
-
-## 💻 Un poco sobre mi trayectoria
-
-- Aprendí **Java**, **Python**, **HTML**, **CSS**, **JavaScript**, **Git**, **GitHub** y **SQL** por cuenta propia.  
-- En **Udemy**, realicé cursos donde aprendí a usar **Java Swing**, creando una calculadora como proyecto práctico.  
-- Cursé **Frontend con Código Facilito**, donde profundicé en desarrollo web.  
-- De manera autodidacta aprendí **React**, desarrollando algunos **proyectos personales** para reforzar mis conocimientos.  
-- Me interesé por el mundo del **QA Testing** y cursé la formación de **QA Tester en TripleTen**, donde aprendí:  
-  - **Automatización de pruebas** con **Python**, **Selenium WebDriver** y **Requests**  
-  - **Validación de APIs** con **Postman**  
-  - **Gestión de bugs** con **Jira**  
-  - **Consultas con SQL**
+🎓 **Control and Automation Engineer** with a strong passion for **technology and programming**.  
+Although my background is in engineering, I’ve always been interested in understanding how applications work from the inside, which led me to learn programming in a **self-taught** way.
 
 ---
 
-## 🧠 Actualmente
+## 💻 A bit about my journey
 
-Me encuentro desarrollando **proyectos personales** para seguir practicando y fortaleciendo mis habilidades en automatización, mientras busco oportunidades profesionales dentro del campo de **Quality Assurance**.  
-Mi meta es seguir aprendiendo, mejorar continuamente y aportar a equipos de desarrollo enfocados en la **calidad del software**.
+- I learned **Java**, **Python**, **HTML**, **CSS**, **JavaScript**, **Git**, **GitHub**, and **SQL** on my own.  
+- Through **Udemy**, I took courses where I learned to use **Java Swing**, creating a simple calculator as a practice project.  
+- I completed a **Frontend Development** course with **Código Facilito**, where I deepened my web development knowledge.  
+- I self-studied **React**, developing several **personal projects** to strengthen my skills.  
+- My interest in **QA Testing** led me to enroll in the **QA Tester program at TripleTen**, where I learned:  
+  - **Test automation** with **Python**, **Selenium WebDriver**, and **Requests**  
+  - **API testing** with **Postman**  
+  - **Bug tracking and reporting** with **Jira**  
+  - **Database queries** with **SQL**
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧠 Currently
 
-| Lenguajes | Testing | Frontend | Otros |
+I’m developing **personal projects** to keep practicing and improving my test automation skills while looking for professional opportunities in the **Quality Assurance** field.  
+My goal is to continue learning, grow as a QA professional, and contribute to teams focused on **building high-quality software**.
+
+---
+
+## 🧰 Technologies and Tools
+
+| Languages | Testing | Frontend | Others |
 |------------|----------|-----------|--------|
 | Python, Java, JavaScript | Selenium, Requests, Pytest, Postman, Jira | HTML, CSS, React | Git, GitHub, SQL |
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-📧 **Correo:** jezeravila@gmail.com  
+📧 **Email:** jezeravila@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/jezer-avila](https://linkedin.com/in/jezer-avila)  
 🐙 **GitHub:** [github.com/JezerAvila](https://github.com/JezerAvila)
 
 ---
 
-> 🚀 “El aprendizaje constante es la base para construir software de calidad.”
+> 🚀 “Continuous learning is the foundation for building quality software.”
